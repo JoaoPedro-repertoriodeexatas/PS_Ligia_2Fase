@@ -131,6 +131,8 @@ Para executar o projeto:
 1. Baixe os dados a partir do link oficial do desafio.
 2. Coloque os arquivos na pasta data com os nomes originais dos arquivos
 
+Outra possibilidade é baixar por meio do link a seguir: [Clique aqui](https://drive.google.com/drive/folders/1ReB2ZKMnOXak-_6njUUujfnsrnTXUT1U?usp=sharing)
+
 ---
 
 ### 📦 Principais Bibliotecas Utilizadas

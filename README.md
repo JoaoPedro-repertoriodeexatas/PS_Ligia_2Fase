@@ -90,6 +90,13 @@ A matriz de confusão indicou boa separação entre classes, com maior dificulda
 ```
 
 ---
+## ⚙️ Ambiente
+
+O projeto foi desenvolvido em Google Colab (Python 3.10).
+As dependências estão listadas em `requirements.txt`.
+
+
+---
 
 ## ⚙️ Como Executar
 

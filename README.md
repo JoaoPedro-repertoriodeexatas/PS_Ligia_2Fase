@@ -122,6 +122,17 @@ python src/pipeline.py
 ```
 ---
 
+## 📂 Dados
+
+Os arquivos `train.csv` e `test.csv` não estão incluídos neste repositório devido ao limite de tamanho do GitHub.
+
+Para executar o projeto:
+
+1. Baixe os dados a partir do link oficial do desafio.
+2. Coloque os arquivos na pasta data com os nomes originais dos arquivos
+
+---
+
 ### 📦 Principais Bibliotecas Utilizadas
 
 - scikit-learn

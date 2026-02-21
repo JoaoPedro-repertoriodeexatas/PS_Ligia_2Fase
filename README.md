@@ -76,9 +76,6 @@ O modelo apresentou desempenho consistente em validação cruzada, com melhoria 
 A matriz de confusão indicou boa separação entre classes, com maior dificuldade apenas em textos ambíguos.
 
 ---
-
-## 🧩 Estrutura do Repositório
-
 ## 🧩 Estrutura do Repositório
 
 ```text
@@ -87,12 +84,6 @@ A matriz de confusão indicou boa separação entre classes, com maior dificulda
 │   ├── 01_exploracao.ipynb
 │   ├── 02_modelagem_tfidf.ipynb
 │   └── 03_otimizacao_threshold.ipynb
-│
-├── images/
-│   ├── confusion_matrix.png
-│   ├── threshold_curve.png
-│   └── feature_importance.png
-│
 ├── submission.csv
 ├── README.md
 └── requirements.txt

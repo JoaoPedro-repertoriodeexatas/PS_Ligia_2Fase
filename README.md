@@ -79,18 +79,14 @@ A matriz de confusão indicou boa separação entre classes, com maior dificulda
 
 ## 🧩 Estrutura do Repositório
 
+## 🧩 Estrutura do Repositório
+
 ```text
 .
-├── data/
-│   ├── train.csv
-│   └── test.csv
-│
 ├── notebooks/
-│   ├── exploracao.ipynb
-│   └── modelagem.ipynb
-│
-├── src/
-│   └── pipeline.py
+│   ├── 01_exploracao.ipynb
+│   ├── 02_modelagem_tfidf.ipynb
+│   └── 03_otimizacao_threshold.ipynb
 │
 ├── images/
 │   ├── confusion_matrix.png
